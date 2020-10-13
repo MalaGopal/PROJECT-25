@@ -1,2 +1,2 @@
-# PROJECT-25
-CP2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
